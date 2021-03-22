@@ -1,0 +1,97 @@
+/* Agregamos fuente a nivel local */
+@font-face {
+  font-family: SF-Pro;
+  src: url(../fonts/SF-Pro.ttf);
+}
+
+@font-face {
+  font-family: SF-Pro-Text-Regular;
+  src: url(../fonts/SF-Pro-Text-Regular.otf);
+}
+
+@font-face {
+  font-family: SF-Pro-Rounded-Regular;
+  src: url(../fonts/SF-Pro-Rounded-Regular.otf);
+}
+
+/* Usar REMS en vez de Pixeles */
+html {
+  box-sizing: border-box;
+  font-size: 62.5%; /** Reset para REMS - 62.5% = 10px de 16px **/
+}
+
+h1 {
+  font-family: "SF-Pro", sans-serif;
+  text-align: center;
+  color: #1f1e1d;
+  font-size: 4.8rem;
+  font-weight: 700;
+}
+h1 span {
+  color: #f06529;
+}
+
+article {
+  font-family: "SF-Pro-Text-Regular", sans-serif ;
+  font-size: 1.9rem;
+  font-weight: 500;
+}
+
+ul li {
+  list-style: none;
+  padding-top: 1rem;
+}
+
+.contenedor-menu .menu li a {
+  text-decoration: none;
+  color: #6e6e73;
+}
+
+.contenedor-menu .menu li a:hover {
+  color: #ff9100a8;
+}
+
+.plane {
+  color: #ff9100a8;
+  font-size: 1.5rem;
+}
+
+footer {
+  font-family: "SF-Pro-Text-Regular", sans-serif;
+  text-align: center;
+}
+
+footer h2 {
+  padding-top: 2rem;
+  font-size: 1.5rem;
+  color: #6d6d6d;
+}
+
+.heart {
+  color: red;
+}
+
+.heart:hover {
+  color: red;
+  -moz-transform: rotate(10deg);
+  -ms-transform: rotate(10deg);
+  -o-transform: rotate(10deg);
+  -webkit-transform: rotate(10deg);
+}
+
+.autor {
+  color: #b3b3b3;
+  font-family: "SF-Pro-Rounded-Regular", sans-serif;
+  font-weight: 400;
+  font-size: 1.6rem;
+  outline: none;
+  text-decoration: none;
+}
+h3 > a {
+  text-decoration: none;
+  color: #b3b3b3;
+}
+
+h3 > a:hover {
+  color: rgb(0, 132, 255);
+}

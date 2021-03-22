@@ -1,23 +1,37 @@
 <div align = "center">
-    <h1>Fundamentos de HTML5</h1>
+    <h1><strong>Fundamentos<font color="#f06529"> HTML5</font></strong></h1>
 </div>
 
 <div align = "center">
-    <a href="https://www.w3schools.com/html/">
-    <img  alt = "Logo HTML5" width = "100px" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png" />
-    </a>
+    <img src="./img/html5.svg"  width="100px" alt="HTML5 logo">
 </div>
 
-### HTML 5 (HyperText Markup Language, versión 5) es la quinta revisión importante del lenguaje básico de la World Wide Web
+<p> HTML5 es la quinta versión del lenguaje de marcas de hipertexto que se utiliza en la elaboración de las páginas web. </p>
+
+<div align = "center">
+<h2>Contenido del repositorio</h2>
+</div>
+
+<ul>
+    <li>Estructura</li>
+    <li>Etiquetas de Contenido</li>
+    <li>Etiquetas de Linea y Bloque</li>
+    <li>Imagenes</li>
+    <li>Semanticas y Microdatos</li>
+    <li>Tablas</li>
+    <li>Formularios</li>
+    <li>Multimedia</li>
+    <li>Contenido Interactivo</li>
+</ul>
 
 #
 
+<!-- Links Redes sociales -->
+<!-- [![Twitter: edinvd](https://img.shields.io/twitter/follow/edinvd?style=social)](https://twitter.com/edinvd) -->
+
 <div align = "center">
-
-<h3>¡Dale ❤️ a repositorio!</h3>
-
+    <h3 color="#FFC400">¡Dale ❤️ al <strong><font color="#ff4f00">Repositorio</font>!</h3>
 </div>
-
 <div align = 'center'>
 <h6>
 
@@ -25,4 +39,3 @@ Por [Edin](https://twitter.com/edinvd)
 
 </h6>
 </div>
-
